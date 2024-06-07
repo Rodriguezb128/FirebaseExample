@@ -20,4 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![image](https://github.com/Rodriguezb128/FirebaseExample/assets/143763162/2759eb81-ff0d-44f6-bc33-b485e36a8883)
+![image](https://github.com/Rodriguezb128/FirebaseExample/assets/143763162/52739cac-d6dc-4024-80ab-6a1a7463ebd7)
+![image](https://github.com/Rodriguezb128/FirebaseExample/assets/143763162/3987ea4b-f498-4ae8-8ee1-542ae32a9e11)
 ![image](https://github.com/Rodriguezb128/FirebaseExample/assets/143763162/47547ff3-cbfa-47c0-adce-5354b5174401)
